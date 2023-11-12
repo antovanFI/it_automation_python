@@ -1,2 +1,2 @@
-# it_automation_python
-Activities for the Google IT Automation with Python Professional Certification
+# Google IT Automation with Python Professional Certification
+Activities for the Professional Certification with INROADS
